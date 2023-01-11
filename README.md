@@ -2,15 +2,14 @@
 {
   "intro": {
     "name": "Will Eason",
-    "located_in": "Seattle, WA",
+    "located_in": "Seattle, WA, USA",
     "email": "itvvillwork@gmail.com"
   },
   "education_and_experience": {
     "current_role": "Full Stack Engineering Fellow",
-    "previous_role": "10 YOE as ESL teacher",
+    "previous_role": "10 YOE as a teacher teaching English, History, and Science in Elementary Schools in 4 countries",
     "education": [
-      "BA in Spanish from University of Kansas",
-      "Self-taught Software Engineer",
+      "BA in Spanish, minor in Business from University of Kansas",
       "Formation Fellow since June 2022"
     ],
     "languages_and_technologies": [
@@ -45,11 +44,10 @@
       "Japan"
     ],
     "hobbies": [
-      "running",
+      "running or hiking - preferably with views",
       "photography",
-      "cooking",
-      "travel",
-      "hiking"
+      "cooking anything and everything with spice or acid",
+      "travel - most recently around North America, Europe soon"
     ]
   }
 }
