@@ -6,12 +6,6 @@
     "email": "itvvillwork@gmail.com"
   },
   "education_and_experience": {
-    "current_role": "Full Stack Engineering Fellow",
-    "previous_role": "10 YOE as a teacher of English, History, and Science in Elementary Schools around the world,
-    "education": [
-      "BA in Spanish, minor in Business from University of Kansas",
-      "Formation Fellow since June 2022"
-    ],
     "languages_and_technologies": [
       "JavaScript",
       "ReactJS",
@@ -27,6 +21,12 @@
     "currently_learning": [
       "Python",
       "PostgreSQL"
+    ],
+    "current_role": "Full Stack Engineering Fellow",
+    "previous_role": "10 YOE as a teacher of English, History, and Science in Elementary Schools around the world,
+    "education": [
+      "BA in Spanish, minor in Business from University of Kansas",
+      "Formation Fellow since June 2022"
     ]
   },
   "misc": {
