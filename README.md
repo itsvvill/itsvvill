@@ -23,10 +23,10 @@
       "PostgreSQL"
     ],
     "current_role": "Full Stack Engineering Fellow",
-    "previous_role": "10 YOE as a teacher of English, History, and Science in Elementary Schools around the world,
+    "previous_role": "10 YOE as a teacher of English, History, and Science in Elementary Schools around the world",
     "education": [
-      "BA in Spanish, minor in Business from University of Kansas",
-      "Formation Fellow since June 2022"
+      "Formation Fellow since June 2022",
+      "BA in Spanish, minor in Business from University of Kansas"
     ]
   },
   "misc": {
