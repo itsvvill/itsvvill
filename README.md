@@ -5,7 +5,7 @@
     "located_in": "Seattle, WA, USA",
     "email": "itvvillwork@gmail.com"
   },
-  "education_and_experience": {
+  "skills_education_and_experience": {
     "languages_and_technologies": [
       "JavaScript",
       "ReactJS",
