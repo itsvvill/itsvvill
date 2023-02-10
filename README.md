@@ -18,9 +18,11 @@
       "CSS",
       "HTML"
     ],
-    "currently_learning": [
+    "actively_learning": [
+      "TypeScript",
+      "PostgreSQL",
       "Python",
-      "PostgreSQL"
+      "Java"
     ],
     "current_role": "Full Stack Engineering Fellow",
     "previous_role": "10 YOE as a teacher of English, History, and Science in Elementary Schools around the world",
