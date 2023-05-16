@@ -25,7 +25,7 @@
       "Java"
     ],
     "current_role": "Full Stack Engineering Fellow",
-    "previous_role": "10 YOE as a teacher of English, History, and Science in Elementary Schools in Europe and Asia",
+    "previous_role": "10 YOE as a teacher of English, History, and Science in schools in Europe and Asia",
     "education": [
       "Formation Fellow since June 2022",
       "BA in Spanish, minor in Business from the University of Kansas"
