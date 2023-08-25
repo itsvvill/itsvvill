@@ -13,7 +13,7 @@
       "Express",
       "NodeJS",
       "MongoDB",
-      "Firebase",
+      "Google Firebase",
       "Bootstrap",
       "CSS",
       "HTML"
@@ -22,7 +22,6 @@
       "TypeScript",
       "PostgreSQL",
       "Python",
-      "Java"
     ],
     "current_role": "Full Stack Engineering Fellow",
     "previous_role": "10 YOE as a teacher of English, History, and Science in schools in Europe and Asia",
