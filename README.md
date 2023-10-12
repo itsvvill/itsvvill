@@ -23,8 +23,8 @@
       "PostgreSQL",
       "Python",
     ],
-    "current_role": "Full Stack Engineering Fellow",
-    "previous_role": "10 YOE as a teacher of English, History, and Science in schools in Europe and Asia",
+    "current_role": "Full Stack Engineer @ Stealth Startup, Full Stack Engineering Fellow @ Formation",
+    "previous_role": "10 YOE as a teacher of English, History, and Science in schools across Europe and Asia",
     "education": [
       "Formation Fellow since June 2022",
       "BA in Spanish, minor in Business from the University of Kansas"
