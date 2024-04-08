@@ -23,7 +23,7 @@
       "PostgreSQL",
       "Python",
     ],
-    "current_role": "Full Stack Engineer @ The Carbon Platform, Software Engineer - AI Training @ Scale AI, Full Stack Engineering Fellow @ Formation",
+    "current_roles": "Full Stack Engineer @ The Carbon Platform, Software Engineer - AI Training @ Scale AI, Full Stack Engineering Fellow @ Formation",
     "previous_role": "10 YOE as a teacher of English, History, and Science in schools across Europe and Asia",
     "education": [
       "Formation Fellow since June 2022",
